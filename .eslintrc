@@ -1,0 +1,14 @@
+{
+    "env": {
+        "browser": true,
+        "meteor": true
+    },
+    "rules": {
+        "eol-last": 1,
+        "no-console": 0,
+        "no-underscore-dangle": 0,
+        "no-shadow": 0,
+        "strict": 2,
+        "quotes": [1, "single"]
+    }
+}
